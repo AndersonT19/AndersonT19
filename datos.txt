@@ -1,0 +1,8 @@
+miguel,1,550
+laura,1,40
+raul,3,200
+anderson,3,600
+maria,2,30
+lola,1,50
+lulu,4,60
+victor,2,13
